@@ -1,0 +1,15 @@
+:root{
+    /* paleta de colores background  */
+    --claroSuave:   #ecb474:;
+    --claroFuerte:  #f4bc74:;
+    --OscuroFuerte: #74450f:;
+    --Intermedio:   #ab7f54:;
+    --OscuroSuave:  #8d540b:;
+
+    /* paleta de colores letras  */
+    --Blanco:     #ffffff;
+    --Negro:      #000000;
+    --GrisOscuro: #333333;
+    --VerdeOscuro:#186147;
+
+}
